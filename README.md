@@ -29,5 +29,5 @@ ___
   ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![sql](https://img.shields.io/badge/SQL-F80000?style=for-the-badge&logo=sql&logoColor=black)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrebas48)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrebas48)](https://github.com/anuraghazra/github-readme-stats) 
    
