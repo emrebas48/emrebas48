@@ -1,7 +1,7 @@
 # Hi there 👋
 Welcome to my GitHub Profile!
 ___
-- I'm Emre İsmet Baş. I studied mechatronics engineering at the Turkish-German University.
+- I'm Emre Baş. I studied mechatronics engineering at the Turkish-German University.
 
   [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emrebas0098@gmail.com)
   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emreismetbas/) 
